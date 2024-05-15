@@ -6,3 +6,4 @@ NO. 1 - ASHLEY SOFIA V. BOO and PRINCESS MAE M. MARQUEZ
 ![Uploading 523f6ffa-be1f-4ee3-87bc-b382834ed82e.jpg…]()
 ![1](https://github.com/ashleysof/CSE_BlockDiagramAlgebra_ECE425_ME4203_Group10_2024/assets/161012750/03130698-b403-4d3f-a179-7f9fc2f2574c)
 ![2](https://github.com/ashleysof/CSE_BlockDiagramAlgebra_ECE425_ME4203_Group10_2024/assets/161012750/27b4a69c-51ce-4c6f-af46-942ca0dc1529)
+![3](https://github.com/ashleysof/CSE_BlockDiagramAlgebra_ECE425_ME4203_Group10_2024/assets/161012750/3190c5a5-9a27-463f-957d-bb8582ac0264)
