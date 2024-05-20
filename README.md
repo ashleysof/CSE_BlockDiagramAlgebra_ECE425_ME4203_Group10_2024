@@ -10,4 +10,4 @@ NO. 1 - ASHLEY SOFIA V. BOO and PRINCESS MAE M. MARQUEZ
 ![4](https://github.com/ashleysof/CSE_BlockDiagramAlgebra_ECE425_ME4203_Group10_2024/assets/161012750/689e7960-d5bc-4426-b89c-8842c3efec3b)
 NO. 2 - ANGEL C. ALAS and ANGELICA ARGUELLES
 ![Alas_Arguelles_Step Response](https://github.com/AlasAngel/CSE_BlockDiagramAlgebra_ECE425_ME4203_Group10_2024/assets/161011972/42421dce-bf4e-4eea-929b-626af811a1d9)
-![Uploading Alas&Arguelles_ManualComputation.jpg…]()
+![Alas Arguelles_ManualComputation](https://github.com/ashleysof/CSE_BlockDiagramAlgebra_ECE425_ME4203_Group10_2024/assets/160557212/475ac11b-cc50-49c0-867d-5383765ad398)
